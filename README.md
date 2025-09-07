@@ -4,7 +4,7 @@ Aplicación web simple que permite organizar un juego de Amigo Secreto.
 
 ✨ Funcionalidades
 
-Ingresar hasta 7 nombres en un listado.
+Ingresa hasta 7 nombres en un listado.
 
 El campo de entrada se limpia automáticamente al añadir un nombre.
 
