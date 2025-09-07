@@ -59,6 +59,7 @@ Limpia el campo.
 Añade el nombre al arreglo y actualiza la lista.
 
 3. Función mostrarLista()
+```js
 function mostrarLista() {
     const lista = document.getElementById("listaAmigos");
     lista.innerHTML = "";
@@ -69,7 +70,7 @@ function mostrarLista() {
         lista.appendChild(li);
     });
 }
-
+```
 
 Recorre el arreglo amigos.
 
@@ -78,6 +79,7 @@ Genera un <li> por cada nombre.
 Muestra los nombres en la lista visual.
 
 4. Función sortearAmigo()
+```js
 function sortearAmigo() {
     if (amigos.length === 0) return;
 
@@ -91,7 +93,7 @@ function sortearAmigo() {
     resultado.innerHTML = `<li><strong>El amigo secreto es ${amigoSecreto}</strong></li>`;
     amigos = [];
 }
-
+```
 
 Verifica que exista al menos un nombre.
 
