@@ -1,5 +1,7 @@
 #Amigo Secreto
 
+Proyecto de Practicando Logica de Programacion de Alura :D
+
 Aplicación web simple que permite organizar un juego de Amigo Secreto.
 
 ✨ Funcionalidades
