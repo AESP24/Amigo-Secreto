@@ -28,12 +28,16 @@ JavaScript (Vanilla)
 
 📜 Explicación de la lógica en app.js
 1. Arreglo de nombres
-let amigos = [];
 
+```js
+let amigos = [];
+```
 
 Se utiliza para guardar los nombres ingresados por el usuario.
 
 2. Función agregarAmigo()
+
+```js
 function agregarAmigo() {
     const input = document.getElementById("amigo");
     const nombre = input.value.trim();
@@ -44,7 +48,7 @@ function agregarAmigo() {
     input.value = ""; 
     mostrarLista();
 }
-
+```
 
 Toma el valor del input.
 
