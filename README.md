@@ -102,5 +102,3 @@ Selecciona un índice aleatorio.
 Limpia la lista original.
 
 Muestra el resultado en verde y negrita (CSS se encarga del estilo).
-
-Reinicia el juego para volver a usarlo.
